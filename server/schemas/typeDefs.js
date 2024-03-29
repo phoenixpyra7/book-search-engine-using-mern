@@ -1,7 +1,7 @@
-module.export = `#graphql
+
+module.exports = `#graphql
 
 type Query {
-    type Query {
     names: [String]
 }
 
