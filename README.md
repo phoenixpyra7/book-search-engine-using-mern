@@ -4,16 +4,12 @@
 In this project I used queries and mutations to refactor a fully functioning Google Books API search engine built with a RESTful API. The app was initially built with a React front end, MongoDB database, and Node.js/Express.js server.
 
 ## Table of Contents:
-*Installation
--User Story
--Acceptance Criteria
-*Usage
-*Features
-*Challenges
-*Contributing
-*Questions
-*License
-*Badges of Technologies Used
+  * Description
+  * User Story
+  * Features
+  * Contributing
+  * License
+  * Badges of Technologies Used
 
 ## User Story:
 
