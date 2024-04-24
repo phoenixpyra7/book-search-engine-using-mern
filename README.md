@@ -15,7 +15,7 @@ In this project I used queries and mutations to refactor a fully functioning Goo
 *License
 *Badges of Technologies Used
 
-## Acceptance Criteria:
+## User Story:
 
 GIVEN a book search engine
 
