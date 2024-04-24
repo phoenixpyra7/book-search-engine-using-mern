@@ -4,12 +4,16 @@
 In this project I used queries and mutations to refactor a fully functioning Google Books API search engine built with a RESTful API. The app was initially built with a React front end, MongoDB database, and Node.js/Express.js server.
 
 ## Table of Contents:
-  * Description
-  * User Story
-  * Features
-  * Contributing
-  * License
-  * Badges of Technologies Used
+  * [Description](https://github.com/phoenixpyra7/book-search-engine-using-mern#description)
+  * [User Story](https://github.com/phoenixpyra7/book-search-engine-using-mern#user-story)
+  * [Features]
+  * [Contributing]
+  * [License]
+  * [Badges]
+  * [Author]
+  * [Live URL](https://github.com/phoenixpyra7/book-search-engine-using-mern#live-url-httpsbook-search-engine-using-mern-ts78onrendercom)
+  * [GitHub URL](https://github.com/phoenixpyra7/book-search-engine-using-mern#github-url-httpsgithubcomphoenixpyra7book-search-engine-using-mern)
+
 
 ## User Story:
 
@@ -57,9 +61,41 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 
+## Features
+
+  * Apollo GraphQL 
+  * React
+  * Vite
+  * Tailwind
+
+## Contributing
+
+  * Inquirer
+  * MDN Web Docs
+  * React
+  * Stack Overflow
+  * W3school
+  * node.js
+  * Express.js
+  * Bootstrap
+  * netlify
+  * Tailwind
+  * Apollo Docs
 
 
-## Live URL: https://book-search-engine-using-mern-ts78.onrender.com
+## License
 
-## GitHub URL: https://github.com/phoenixpyra7/book-search-engine-using-mern
+![GitHub License](https://img.shields.io/badge/License-MIT-%231565C0)
+
+## Badges of Technologies Used
+
+![Static Badge](https://img.shields.io/badge/Ask_me-Anything-%23C8E6C9)
+
+## Author: [Sara (Seven)](https://github.com/phoenixpyra7)
+
+
+
+## Live URL: [Take me to the Book Search Engine](https://book-search-engine-using-mern-ts78.onrender.com)
+
+## GitHub URL: [Book Search Engine Repository](https://github.com/phoenixpyra7/book-search-engine-using-mern)
 
