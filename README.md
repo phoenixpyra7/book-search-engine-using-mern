@@ -4,15 +4,15 @@
 In this project I used queries and mutations to refactor a fully functioning Google Books API search engine built with a RESTful API. The app was initially built with a React front end, MongoDB database, and Node.js/Express.js server.
 
 ## Table of Contents:
-  * [Description](##Description)
-  * [User Story](https://github.com/phoenixpyra7/book-search-engine-using-mern#user-story)
-  * [Features](https://github.com/phoenixpyra7/book-search-engine-using-mern#features)
-  * [Contributing](https://github.com/phoenixpyra7/book-search-engine-using-mern#contributing)
-  * [License](https://github.com/phoenixpyra7/book-search-engine-using-mern#license)
-  * [Badges](https://github.com/phoenixpyra7/book-search-engine-using-mern#badges-of-technologies-used)
-  * [Author](https://github.com/phoenixpyra7/book-search-engine-using-mern#author-sara-seven)
-  * [Live URL](https://github.com/phoenixpyra7/book-search-engine-using-mern#live-url-httpsbook-search-engine-using-mern-ts78onrendercom)
-  * [GitHub URL](##GitHub-URL)
+  * [Description](#description)
+  * [User Story](#user-story)
+  * [Features](#features)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * [Badges](#badges)
+  * [Author](#author)
+  * [Live URL](#live-url)
+  * [GitHub URL](#github-url)
 
 
 ## User Story:
